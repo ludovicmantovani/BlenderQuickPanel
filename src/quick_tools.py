@@ -1,7 +1,6 @@
-from ast import If
 import bpy
-from bpy_extras.io_utils import ExportHelper, ImportHelper
 from bpy.types import Panel, Operator
+from bpy_extras.io_utils import ExportHelper, ImportHelper
 
 
 class RENDER_main_panel(Panel):
